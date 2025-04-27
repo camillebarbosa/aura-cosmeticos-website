@@ -2,6 +2,8 @@
 
 Aura Cosméticos é um projeto de estudo de um site de e-commerce dedicado à venda de cosméticos, com foco em produtos de cuidados com a pele. O site oferece uma experiência de navegação simples e intuitiva para o usuário, incluindo a possibilidade de agendar consultas para cuidados com a pele e o layout de um carrinho, possibilitando que o usuário abra e feche o mesmo.
 
+https://camillebarbosa.github.io/aura-cosmeticos-website/
+
 ## Descrição
 
 Este repositório contém o código-fonte de um site desenvolvido com HTML e CSS com funcionalidades adicionais implementadas via JavaScript. O site oferece uma interface limpa e moderna para que os usuários possam explorar a linha de produtos, consultar informações sobre a empresa, e entrar em contato facilmente.
