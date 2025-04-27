@@ -1,1 +1,1 @@
-# aura-cosmetico-website
+# aura-cosmeticos-website
