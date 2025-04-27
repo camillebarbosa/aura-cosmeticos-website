@@ -36,12 +36,15 @@ Este repositório contém o código-fonte de um site desenvolvido com HTML e CSS
 O formulário de agendamento de consultas e o carrinho de compras são apenas front-end para simulação e precisam ser integrados com um back-end para envio de dados reais.
    
 /aura-cosmeticos
-    ├── /imgs              # Imagens do site
+    ├── /assets            # Arquivos do site
+    │   └── imgs           # Imagens do site
     ├── /css               # Arquivos CSS
     │   └── style.css      # Estilos principais
     │   └── formulario.css # Estilos para o formulário
-    ├── /js                # Arquivos JavaScript
+    ├── /scripts           # Arquivos JavaScript
     │   └── app.js         # Funções de interatividade
     ├── index.html         # Página inicial
     ├── produto.html       # Página de produtos
-    └── formulario.html    # Formulário de agendamento
+    ├── formulario.html    # Formulário de agendamento
+    ├── LICENSE.txt        # Licença do projeto
+    ├── README.md          # README do projeto
